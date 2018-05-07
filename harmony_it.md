@@ -15,7 +15,7 @@ accettarlo. L'Accordo può riguardare più di un progetto software gestito da No
 
 [^4a4a8856]: Hyperlink alla risorsa che descrive come e dove inviare il presente contratto
 
-1\. Definizioni
+## 1\. Definizioni
 
 `[per società]`
 
@@ -59,7 +59,7 @@ qualificata da Te per iscritto come "Non è un contributo".
 la data in cui si invia per la prima volta un Contributo a Noi, a seconda
 dell'evento che si verifica prima.
 
-2\. Concessione di diritti
+## 2\. Concessione di diritti
 
 **2.1 Assegnazione del copyright**
 
@@ -115,7 +115,7 @@ indipendentemente dal fatto che tali licenze siano successivamente disapprovate
 
 **2.6 Riserva di diritti**. Tutti i diritti non espressamente trasmessi o concessi in licenza in questo articolo rimangono espressamente riservati a Te.
 
-3\. Accordo
+## 3\. Accordo
 
 Tu confermi che:
 
@@ -139,15 +139,15 @@ Tu confermi che:
 
 \(d) Hai seguito le istruzioni in `[...]`, se non possiedi la totalità del Copyright ne Contributo.[^4a4a8856]
 
-4\. Limitazione di responsabilità
+## 4\. Limitazione di responsabilità
 
 SALVE LE GARANZIE ESPRESSE NELL'ARTICOLO 3, IL CONTRIBUTO VIENE FORNITO "COSÌ COM'È". PIÙ PARTICOLARMENTE, TUTTE LE GARANZIE IMPLICITE O ESPLICITE COMPRESE, SENZA LIMITAZIONE, QUALSIASI GARANZIA IMPLICITA DI COMMERCIABILITÀ, IDONEITÀ PER UN PARTICOLARE SCOPO E NON VIOLAZIONE VIENE ESCLUDERE ESPRESSAMENTE DA TE PER NOI E DA NOI PER TE. NELLA MISURA IN CUI TALI GARANZIE NON POSSONO ESSERE ESCLUSE, TALE GARANZIA È LIMITATA IN DURATA AL PERIODO MINIMO CONSENTITO DALLA LEGGE. La presente esclusione di responsabilità non si applica ai casi di dolo o colpa grave.
 
-5\. Rinuncia ai danni indiretti e consequenziali
+## 5\. Rinuncia ai danni indiretti e consequenziali
 
 NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE, IN NESSUN CASO TU O NOI SAREMO RESPONSABILI PER QUALSIASI LUCRO CESSANTE, PERDITA DI RISPARMI ATTESI, PERDITA DI DATI, DANNI INDIRETTI, SPECIALI, ACCIDENTALI, CONSEQUENZIALI E PUNITIVI DERIVANTI DA QUESTO ACCORDO QUALE NE SIA LA NATURA (CONTRATTUALE, EXTRACONTRATTUALE O ALTRO) SU CUI È BASATA LA DOMANDA. La presente esclusione di responsabilità non si applica ai casi di dolo o colpa grave.
 
-6\. Varie
+## 6\. Varie
 
 6.1 Il presente Contratto sarà regolato e interpretato in conformità con le leggi italiane, ad esclusione delle disposizioni di diritto privato internazionale. In determinate circostanze, la legge applicabile in questo articolo potrebbe essere sostituita dalla Convenzione delle Nazioni Unite sui contratti per la vendita internazionale di merci ("Convenzione ONU") e le parti intendono evitare l'applicazione di tale Convenzione delle Nazioni Unite al presente Accordo e, pertanto, intendono escludere l'applicazione della Convenzione delle Nazioni Unite nella sua interezza al presente Accordo.
 
@@ -181,7 +181,9 @@ Nome e Cognome
 Titolo o qualifica
 Firma:
 
- **Approvazione espressa.** Ai sensi degli articoli 1341 e 1342 del Codice Civile approviamo espressamente le seguenti Clausole:
+## Approvazione espressa
+
+Ai sensi degli articoli 1341 e 1342 del Codice Civile approviamo espressamente le seguenti Clausole:
 
 - 4\. Limitazione di responsabilità
 - 5\. Rinuncia ai danni indiretti e consequenziali
@@ -206,4 +208,3 @@ Firma:
 
 Questo documento è un adattamento alla legge e alla lingua italiana e consolidamento degli accordi Harmony (Harmony (HA-CAA-I-OSI) Version 1.0) reperibile al seguente indirizzo: <http://www.harmonyagreements.org/review.html> e licenziato sotto condizioni Creative Commons BY-SA 3.0 unported. <https://creativecommons.org/licenses/by/3.0/>  
 © 2018 per traduzione e adattamento di Carlo Piana, licenziato sotto condizioni Creative Commons BY-SA 4.0 International. <https://creativecommons.org/licenses/by/4.0/>
-
