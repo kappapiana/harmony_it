@@ -6,7 +6,7 @@ oppure: [^0263e37f]
 
 # Accordo di cessione di copyright per persone giuridiche
 
-Grazie per il tuo interesse nel contribuire a `[nome del progetto]` ("Noi" o "Noi", anche nelle declinazioni "Nostro" o "Nostri").
+Grazie per il tuo interesse nel contribuire a `[nome del progetto]` di cui è titolare `[Nome del Titolare, dati completi]` ("Noi" o "Noi", anche nelle declinazioni "Nostro" o "Nostri").
 
 Questo accordo di contribuzione ("Accordo") documenta i diritti concessi dai
 contributori a Noi. Per rendere questo documento efficace, si prega di firmarlo
