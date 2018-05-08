@@ -161,17 +161,17 @@ NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE, IN NESSUN CASO TU O NOI
 
 `[per società]`
 
-> Nome della società
-Rappresentata da
-Nome e Cognome
-Indirizzo
-Titolo o qualifica (se applicabile)
-Firma:
+> Nome della società  
+Rappresentata da  
+Nome e Cognome  
+Indirizzo  
+Titolo o qualifica (se applicabile)  
+Firma:  
 
 `[per individui]`
 
-> Nome e Cognome
-Indirizzo
+> Nome e Cognome  
+Indirizzo  
 Firma:
 
 
@@ -191,14 +191,14 @@ Ai sensi degli articoli 1341 e 1342 del Codice Civile approviamo espressamente l
 
 `[per società]`
 
-> Nome della società
-Rappresentata da
-Nome e Cognome
-Firma:
+> Nome della società  
+Rappresentata da  
+Nome e Cognome  
+Firma:  
 
 `[per individui]`
 
-> Nome e Cognome
+> Nome e Cognome  
 Firma:
 
 
