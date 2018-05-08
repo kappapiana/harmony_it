@@ -175,10 +175,10 @@ Indirizzo
 Firma:
 
 
-[Nome della società]
-Rappresentato da
-Nome e Cognome
-Titolo o qualifica
+[Nome della società]  
+Rappresentato da  
+Nome e Cognome  
+Titolo o qualifica  
 Firma:
 
 ## Approvazione espressa
